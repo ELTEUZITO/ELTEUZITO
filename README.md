@@ -6,6 +6,7 @@
 
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=ELTEUZITO&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELTEUZITO)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso atualmente
 
